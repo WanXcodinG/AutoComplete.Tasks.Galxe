@@ -1,6 +1,6 @@
 # AutoComplete.Tasks.Galxe
 
-Welcome to the `Galxe-AutoComplete-Tasks` repository! This script is designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient.
+Welcome to the `AutoComplete.Tasks.Galxe` repository! This script is designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient.
 
 ## Features 🌟
 
