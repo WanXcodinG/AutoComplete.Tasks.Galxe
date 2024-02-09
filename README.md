@@ -1,4 +1,4 @@
-Galxe AutoComplete Tasks
+                                                                           Galxe AutoComplete Tasks
 Welcome to the Galxe-AutoComplete-Tasks repository! This script is designed to automate various tasks on the Galxe platform, making your experience smoother and more efficient.
 
 Features 🌟
